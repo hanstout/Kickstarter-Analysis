@@ -1,14 +1,14 @@
 # An Analysis of Kickstarter Campaigns
 ## An analysis of Kickstart Data using Excel to uncover new trends. 
 ---
-### [Kickstart_Challenge_Graph1](/Kickstarter-Analysis/Kickstart_Challenge_Graph1.png)
+### [Kickstart_Challenge_Graph1](/Kickstart_Challenge_Graph1.png)
 Graph 1 gives a visual representation of the number of parent categories where successful, failed, live, and canceled. 
 * Music and Theater had the highest number of successes.
 * Film & Video were the third most successful. 
 * Food and Games had the highest number of failures. 
 * Journalism was canceled every time. 
 ---
-### [Kickstart_Challenge_Graph2](/Kickstarter-Analysis/Kickstart_Challenge_Graph2.png)
+### [Kickstart_Challenge_Graph2](/Kickstart_Challenge_Graph2.png)
 Graph 2 gives a visual representation of the number of successful, failed, live, and canceled parent categories per month. 
 * Of successful shows, the majority were done between May and June. 
 * Of failed shows, the majority were in July and October. 
