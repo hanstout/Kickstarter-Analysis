@@ -30,8 +30,8 @@ the ranges of Outcome Based on Goals, I ran into a problem with the automatic fo
 many different number formats but still could not get it to work. I finally just had to add a zero in the front of numbers less than 5-digits. I do feel like there is 
 a way around this, but I could not finure it out. As far as pivot charts, they were challenging but after messing around with columns and rows, I was able to reach my 
 desired outcome. See the following visuals:
-* [Outcomes_vs_Goals.png](resourse/Outcomes_vs_Goals.png)
-* [Theater_Outcomes_vs_Launch.png](resourse/heater_Outcomes_vs_Launch.png)
+* [Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
+* [Theater_Outcomes_vs_Launch.png](resources/heater_Outcomes_vs_Launch.png)
 
 ---
 ## Results
